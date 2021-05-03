@@ -116,5 +116,9 @@
       }
     }
   },
-  "defaultProject": "angular-tour-of-heroes"
+  "defaultProject": "angular-tour-of-heroes",
+  "cli": {
+    "analytics": "8c72a257-d2dc-4251-b7e9-7bc1856c0931",
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
